@@ -1,0 +1,9 @@
+# Eclipse
+/server-java/.settings/
+/server-java/.classpath/
+/server-java/.project/
+/server-java/bin/
+
+# Gradle
+/server-java/build/
+/server-java/.gradle/
